@@ -2,4 +2,6 @@
     <string name="app_name">Hello World</string>
     <string name="menu_about">About</string>
     <string name="menu_exit">Exit</string>
+    <string name="dialog_about">This is a simple app made by Jimmy Lin (@jmlntw) for learning purpose.</string>
+    <string name="dialog_close">Close</string>
 </resources>
